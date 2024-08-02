@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Self-Introduction"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,3 +11,5 @@ redirect_from:
 I'm a junior student majoring in [Mechanics](https://en.wikipedia.org/wiki/Mechanics) in  [ZheJiang Universty](https://www.zju.edu.cn) I'm working on [data-driven method]( https://databookuw.com/).
 
 If you want to contact me, please send Email to 3220101306@zju.edu.cn
+
+Visit my [Blog](https://aphia-xianyu.github.io/)
