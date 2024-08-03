@@ -8,8 +8,14 @@ redirect_from:
 ---
 ## About Me
 
-I'm a junior student majoring in [Mechanics](https://en.wikipedia.org/wiki/Mechanics) in  [ZheJiang Universty](https://www.zju.edu.cn) I'm working on [data-driven method]( https://databookuw.com/).
+My name in Chinese is 黄致毅。
 
-If you want to contact me, please send Email to 3220101306@zju.edu.cn
+I am a junior student majoring in [Mechanics](https://en.wikipedia.org/wiki/Mechanics) in [School Of Aeronautics And Astronautics](http://saa.zju.edu.cn/) [ZheJiang University](https://www.zju.edu.cn) I'm working on [data-driven method]( https://databookuw.com/).
 
+If you want to contact me, please send email to 3220101306@zju.edu.cn
+
+## Education
+**Now** Sep.2022- ZheJiang Uinversity
+
+## Miscellaneous
 Visit my [Blog](https://aphia-xianyu.github.io/)
